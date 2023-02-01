@@ -10,11 +10,12 @@ import SwiftUI
 struct InfoView: View {
   var body: some View {
     ZStack {
-      Color("darkGreen")
-        .ignoresSafeArea()
+      
       VStack {
-        Text("Dan Payne made this")
-        Text("bitches!")
+        Text("Tap the button corresponding to the team that wins the round.")
+        Spacer()
+        Text("Tap the green arrow to reset the game.")
+       
       }
     }
   }

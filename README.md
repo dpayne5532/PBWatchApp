@@ -1,4 +1,4 @@
-# PBWatchApp
+# PBWatchApp (watchOS)
 
 ![alt text](https://danpayne.info/pb.png)
 

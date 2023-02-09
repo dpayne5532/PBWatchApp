@@ -43,8 +43,6 @@ struct GameView: View {
         
       }
       
-      
-      
       VStack {
         HStack {
           VStack {
@@ -76,7 +74,7 @@ struct GameView: View {
         Spacer()
         Spacer()
         
-        
+      
         HStack {
           Button {
             WKInterfaceDevice.current().play(.success)
